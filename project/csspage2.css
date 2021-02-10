@@ -1,0 +1,158 @@
+a {
+    color : white ;
+    text-decoration: none; 
+}
+a:hover {
+        color : black ;   
+    }
+body {
+    background-color: grey ;
+}
+#education{
+    text-align: center ;
+    font-size: 50px ;
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#photo {
+        position: absolute ;
+        left:80px;
+        top:115px;
+}
+.educa{
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+}
+#year{
+    position: absolute;
+    left:495px;
+    top:100px;
+}
+#loca{
+    position: absolute;
+    left:870px;
+    top:100px;
+}
+#y1{
+    position: absolute;
+    left:465px;
+    top:150px;
+}
+#y2{
+    position: absolute;
+    left:465px;
+    top:200px;
+}
+#y3{
+    position: absolute;
+    left:465px;
+    top:250px;
+}
+#y4{
+    position: absolute;
+    left:450px;
+    top:300px;
+}
+#s1{
+    position: absolute;
+    left:890px;
+    top:150px;
+}
+#s2{
+    position: absolute;
+    left:770px;
+    top:200px;
+}
+#s3{
+    position: absolute;
+    left:810px;
+    top:250px;
+}
+#s4{
+    position: absolute;
+    left:850px;
+    top:300px;
+}
+#s5{
+    position: absolute;
+    left:805px;
+    top:350px;
+}
+.goal{
+    font-size: 25px;
+    font-family: 'Kanit', sans-serif;
+    color : white;
+}    
+#g1{
+    position: absolute;
+    left:200px;
+    top:430px;
+}
+#g2{
+    position: absolute;
+    left:200px;
+    top:480px;
+}
+#g3{
+    position: absolute;
+    left:200px;
+    top:530px;
+}
+#g4{
+    position: absolute;
+    left:200px;
+    top:580px;
+}
+#buttonp1{
+    background-color:rgb(0, 170, 255);
+    color : white ;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 480px;
+    border: none;       
+}
+#buttonp3{
+    background-color:rgb(0, 170, 255);
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 530px;
+    border: none;
+}
+#buttonp4{
+    background-color: rgb(0, 170, 255) ;
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 580px;
+    border: none;
+}
+
+#buttonp1{border-radius: 12px;}
+#buttonp3{border-radius: 12px;}
+#buttonp4{border-radius: 12px;}
+
+.but{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+}
+#but1{
+    position: absolute;   
+    left : 990px;
+    top : 470px;
+}
+#but3{
+    position: absolute;   
+    left : 990px;
+    top : 520px;
+}
+#but4{
+    position: absolute;   
+    left : 990px;
+    top : 570px;
+}

@@ -1,0 +1,94 @@
+a {
+    color : white ;
+    text-decoration: none; 
+}
+a:hover {
+        color : black ;   
+    }
+body {
+    background-color: grey ;
+}
+#software{
+    text-align: center ;
+    font-size: 50px ;
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#photo{
+    position: absolute;
+    left:50px;
+    top:150px;
+}
+#pro1{
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+    position: absolute;
+    left : 50px;
+    top:70px;
+}
+#photo2{
+    position: absolute;
+    left:750px;
+    top:150px;
+}   
+#pro2{
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+    position: absolute;
+    left : 750px;
+    top:70px;
+}
+#buttonp1{
+    background-color:rgb(0, 170, 255);
+    color : white ;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 480px;
+    border: none;       
+}
+#buttonp2{
+    background-color:rgb(0, 170, 255);
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 530px;
+    border: none;
+}
+#buttonp3{
+    background-color: rgb(0, 170, 255) ;
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 580px;
+    border: none;
+}
+
+#buttonp1{border-radius: 12px;}
+#buttonp2{border-radius: 12px;}
+#buttonp3{border-radius: 12px;}
+
+.but{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+}
+#but1{
+    position: absolute;   
+    left : 990px;
+    top : 470px;
+}
+#but2{
+    position: absolute;   
+    left : 990px;
+    top : 520px;
+}
+#but3{
+    position: absolute;   
+    left : 990px;
+    top : 570px;
+}

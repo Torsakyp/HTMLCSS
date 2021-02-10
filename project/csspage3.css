@@ -1,0 +1,138 @@
+a {
+    color : white ;
+    text-decoration: none; 
+}
+a:hover {
+        color : black ;   
+    }
+body {
+    background-color: grey ;
+}
+#photo{
+    position: absolute;
+    left : 880px;
+    top : 200px;
+}
+.hobbies{
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+}
+#hob{
+    position: absolute;
+    left: 1100px;
+    top: 110px;
+}
+#hob1{
+    position: absolute;
+    left: 1180px;
+    top: 170px;
+}
+#hob2{
+    position: absolute;
+    left: 1180px;
+    top: 220px;
+}
+#hob3{
+    position: absolute;
+    left: 1180px;
+    top: 270px;
+}
+#hob4{
+    position: absolute;
+    left: 1180px;
+    top: 320px;
+}
+#hob5{
+    position: absolute;
+    left: 1180px;
+    top: 370px;
+}
+#photo1{
+    position: absolute;
+    left: 1130px;
+    top: 195px;
+}
+#photo2{
+    position: absolute;
+    left: 1130px;
+    top: 245px;
+}
+#photo3{
+    position: absolute;
+    left: 1130px;
+    top: 295px;
+}
+#photo4{
+    position: absolute;
+    left: 1130px;
+    top: 345px;
+}
+#photo5{
+    position: absolute;
+    left: 1130px;
+    top: 395px;
+}
+
+#video{
+    text-align: center ;
+    font-size: 50px ;
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#vdo{
+    position: absolute;
+    left:50px;
+}
+#buttonp1{
+    background-color:rgb(0, 170, 255);
+    color : white ;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 480px;
+    border: none;       
+}
+#buttonp2{
+    background-color:rgb(0, 170, 255);
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 530px;
+    border: none;
+}
+#buttonp4{
+    background-color: rgb(0, 170, 255) ;
+    color:white;
+    padding: 15px;
+    position: absolute;   
+    left : 900px;
+    top : 580px;
+    border: none;
+}
+
+#buttonp1{border-radius: 12px;}
+#buttonp2{border-radius: 12px;}
+#buttonp4{border-radius: 12px;}
+
+.but{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color : white;
+}
+#but1{
+    position: absolute;   
+    left : 990px;
+    top : 470px;
+}
+#but2{
+    position: absolute;   
+    left : 990px;
+    top : 520px;
+}
+#but4{
+    position: absolute;   
+    left : 990px;
+    top : 570px;
+}
